@@ -1,0 +1,50 @@
+[
+    {
+        "адрес": "Москва, улица Двинцев, 12к1, м. Марьина Роща или м. Савеловская",
+        "работодатель": "ORO",
+        "ссылка на вакансию": "https://spb.hh.ru/vacancy/89008711?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "зарплата": "ORO"
+    },
+    {
+        "адрес": "Москва",
+        "работодатель": "Точка",
+        "ссылка на вакансию": "https://spb.hh.ru/vacancy/86085894?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "зарплата": "до 420 000 ₽ на руки"
+    },
+    {
+        "адрес": "Москва, Пресненская набережная, 6 стр.2, Башня Империя",
+        "работодатель": "OKKAM",
+        "ссылка на вакансию": "https://spb.hh.ru/vacancy/87868801?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "зарплата": "OKKAM"
+    },
+    {
+        "адрес": "Москва",
+        "работодатель": "Ostrovok.ru",
+        "ссылка на вакансию": "https://spb.hh.ru/vacancy/88354525?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "зарплата": "Ostrovok.ru"
+    },
+    {
+        "адрес": "Москва, Выставочная, Деловой центр, Деловой центр, Центральный административный округ, Пресненский район, Московский международный деловой центр Москва-Сити",
+        "работодатель": "ЭкспрессДеньги",
+        "ссылка на вакансию": "https://spb.hh.ru/vacancy/88321622?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "зарплата": "ЭкспрессДеньги"
+    },
+    {
+        "адрес": "Москва",
+        "работодатель": "Ostrovok.ru",
+        "ссылка на вакансию": "https://spb.hh.ru/vacancy/89001355?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "зарплата": "Ostrovok.ru"
+    },
+    {
+        "адрес": "Санкт-Петербург, Выборгская, Площадь Ленина, Большой Сампсониевский проспект, 28к2",
+        "работодатель": "ООО ЛИГРЕС",
+        "ссылка на вакансию": "https://spb.hh.ru/vacancy/88999663?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "зарплата": "от 200 000 ₽ на руки"
+    },
+    {
+        "адрес": "Москва, Библиотека им.Ленина, Охотный ряд, Площадь Революции, Театральная",
+        "работодатель": "ИП Антонов Петр Анатольевич",
+        "ссылка на вакансию": "https://spb.hh.ru/vacancy/88099262?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+        "зарплата": "от 150 000 ₽ на руки"
+    }
+]
